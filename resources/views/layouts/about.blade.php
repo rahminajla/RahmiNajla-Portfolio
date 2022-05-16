@@ -21,7 +21,7 @@
     
 
 
-    <title>{{ $title }} | HOSPIRESC</title>
+    <title>{{ $title }} | Portfolio</title>
 </head>
 <body>
     <hr style="color: white">

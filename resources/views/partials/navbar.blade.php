@@ -1,5 +1,5 @@
      <!--Navbar-->
-     <nav class="navbar navbar-expand-lg navbar-dark" style="background-color: #2F303A">
+     <nav class="navbar navbar-expand-lg navbar-dark" style="background-color: #000000">
         <div class="container">
             <a class="navbar-brand" href="#">
                 <img src="/assets/icon/Logo.png" alt="" width="50" height="45" class="d-inline-block align-text-top">
