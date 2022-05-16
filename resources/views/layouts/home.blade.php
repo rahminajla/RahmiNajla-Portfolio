@@ -15,9 +15,7 @@
     <link rel="stylesheet" href="/assets/custom/home.css">
     <link rel="stylesheet" href="/assets/custom/navbar.css">
 
-   <!-- favicon -->
-   <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-    
+   
 
 
     <title>{{ $title }} | Portfolio</title>

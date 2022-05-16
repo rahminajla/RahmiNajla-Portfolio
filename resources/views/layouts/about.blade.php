@@ -11,14 +11,11 @@
 
 
     <!-- Custom CSS -->
-    <link rel="stylesheet" href="/assets/custom/template/style.css">
-   <link rel="stylesheet" href="/assets/custom/about/style.css">
-   <link rel="stylesheet" href="/assets/custom/login/style.css">
+    <link rel="stylesheet" href="/assets/custom/style.css">
+   <link rel="stylesheet" href="/assets/custom/about.css">
    <link rel="stylesheet" href="/assets/custom/navbar.css">
 
-   <!-- favicon -->
-   <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-    
+   
 
 
     <title>{{ $title }} | Portfolio</title>
