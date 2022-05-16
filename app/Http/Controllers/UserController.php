@@ -16,6 +16,7 @@ class UserController extends Controller
             "title" => "About"
         ]);
     }
+
     /**
      * Display a listing of the resource.
      * @return \Illuminate\Http\Response
@@ -27,7 +28,7 @@ class UserController extends Controller
         ]);
     }
 
-    /**
+     /**
      * Display a listing of the resource.
      * @return \Illuminate\Http\Response
      */

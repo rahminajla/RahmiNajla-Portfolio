@@ -12,16 +12,13 @@
 
     <!-- Custom CSS -->
     <link rel="stylesheet" href="/assets/custom/style.css">
-   <link rel="stylesheet" href="/assets/custom/about.css">
-   <link rel="stylesheet" href="/assets/custom/navbar.css">
+    <link rel="stylesheet" href="/assets/custom/about.css">
+    <link rel="stylesheet" href="/assets/custom/navbar.css">
 
    
-
-
     <title>{{ $title }} | Portfolio</title>
 </head>
 <body>
-    <hr style="color: white">
     @yield('content')
     
     <!-- Optional JavaScript -->

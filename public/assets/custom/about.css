@@ -1,0 +1,47 @@
+body {
+    background-color: #000000;
+}
+
+h1 {
+    text-align: center;
+    text-justify: inter-word;
+    font-size: 50px;
+    font-family: Verdana !important;
+    font-weight: 1000;
+    color: #F4A950;
+    margin-top: 20px;
+}
+
+h2 {
+    text-justify: inter-word;
+    font-size: 25px;
+    font-family: Verdana !important;
+    font-weight: 600;
+    color: #FFFFFF;
+    margin-top: 40px;
+}
+
+h4 {
+    margin-top: 60px;
+}
+
+p {
+    font-family: Verdana !important;
+    font-weight: 250;
+    font-size: 20px;
+    color: #FFFFFF;
+    width: 100%;
+    line-height: 50px;
+}
+
+b {
+    font-weight: 500;
+}
+
+.col-1 {
+    clear: left;
+}
+
+.col-2 {
+    clear: right;
+}

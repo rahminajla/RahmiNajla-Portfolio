@@ -1,5 +1,5 @@
      <!--Navbar-->
-     <nav class="navbar navbar-expand-lg navbar-dark" style="background-color: #000000">
+     <nav class="navbar navbar-expand-lg navbar-dark" style="background-color: #151414">
         <div class="container">
             <a class="navbar-brand" href="#">
                 Portfolio</a>
@@ -11,16 +11,16 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav ms-auto">
                     <li class="nav-item ">
-                        <a class="nav-link active" href="#home"> <span
-                                class="{{ $title == 'Home' ? 'blue' : '' }}"> Home </span> </a>
+                        <a class="nav-link active"  href="home"> <span
+                                class="{{ $title == 'Home' ? 'white' : '' }}"> Home </span> </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link active" href="#about"> <span
-                                class="{{ $title == 'About' ? 'blue' : '' }}"> About </span> </a>
+                        <a class="nav-link active" href="about"> <span
+                                class="{{ $title == 'About' ? 'white' : '' }}"> About </span> </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link active" href="#contact"> <span
-                                class="{{ $title == 'Contact' ? 'blue' : '' }}"> Contact</span> </a>
+                        <a class="nav-link active" href="contact"> <span
+                                class="{{ $title == 'Contact' ? 'white' : '' }}"> Contact</span> </a>
                     </li>
                 </ul>
             </div>

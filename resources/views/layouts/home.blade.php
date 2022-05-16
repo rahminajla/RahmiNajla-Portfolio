@@ -15,15 +15,14 @@
     <link rel="stylesheet" href="/assets/custom/home.css">
     <link rel="stylesheet" href="/assets/custom/navbar.css">
 
-   
-
 
     <title>{{ $title }} | Portfolio</title>
 </head>
 <body>
-    <hr style="color: rgb(217, 116, 14)">
-    @yield('content')
-    
+
+      <div class="hero-image">
+        @yield('content')
+      </div>
     <!-- Optional JavaScript -->
     <script src="/assets/bootstrap/js/bootstrap.js"></script>
     <script src="/assets//bootstrap/js/popper.min.js"></script>
