@@ -34,7 +34,7 @@ class UserController extends Controller
      */
     public function Home()
     {
-        return view('home', [
+        return view('main', [
             "title" => "Home"
         ]);
     }

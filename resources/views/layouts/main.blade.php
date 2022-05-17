@@ -9,15 +9,13 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="/assets/bootstrap/css/bootstrap.min.css">
 
-
     <!-- Custom CSS -->
-    <link rel="stylesheet" href="/assets/custom/about.css">
+    <link rel="stylesheet" href="/assets/custom/style.css">
 
     <title>{{ $title }} | Portfolio</title>
 </head>
 <body>
-    @yield('content')
-    
+        @yield('content')
     <!-- Optional JavaScript -->
     <script src="/assets/bootstrap/js/bootstrap.js"></script>
     <script src="/assets//bootstrap/js/popper.min.js"></script>

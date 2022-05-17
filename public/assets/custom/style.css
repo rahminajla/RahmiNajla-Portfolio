@@ -1,0 +1,106 @@
+body {
+    background-color: #000000;
+}
+
+* {
+    font-family: Verdana !important;
+}
+
+hr {
+    color: #F4A950;
+}
+
+
+/* Home Section */
+
+h1.col-name {
+    text-align: justify;
+    text-justify: inter-word;
+    font-size: 40px;
+    font-weight: 700;
+    color: #FFFFFF;
+    clear: right;
+    margin-top: 200px;
+}
+
+h2.col-work {
+    font-weight: 250;
+    font-size: 30px;
+    color: #F4A950;
+    width: 100%;
+    line-height: 50px;
+    clear: right;
+}
+
+h3.col-desc {
+    font-weight: 250;
+    font-size: 20px;
+    text-align: justify;
+    margin-bottom: 100px;
+    color: #FFFFFF;
+    width: 100%;
+    line-height: 50px;
+    clear: right;
+}
+
+.my-photo {
+    display: block;
+    margin-left: auto;
+    margin-top: 100px;
+    float: left;
+}
+
+
+/* About Section */
+
+h1.about-section {
+    text-align: center;
+    text-justify: inter-word;
+    font-size: 50px;
+    font-weight: 1000;
+    color: #F4A950;
+    margin-top: 10px;
+}
+
+h2.my-info {
+    text-justify: inter-word;
+    font-size: 30px;
+    font-weight: 600;
+    color: #FFFFFF;
+    margin-top: 80px;
+}
+
+h4 {
+    margin-top: 80px;
+    font-weight: 250;
+    font-size: 20px;
+    color: #FFFFFF;
+    width: 100%;
+    line-height: 40px;
+}
+
+
+/* Contact Section */
+
+h1.contact-section {
+    text-align: center;
+    text-justify: inter-word;
+    font-size: 50px;
+    font-weight: 1000;
+    margin-top: 10px;
+    color: #F4A950;
+}
+
+.p {
+    font-weight: 1000;
+    font-size: 20px;
+    margin-bottom: 100px;
+    color: #FFFFFF;
+    width: 100%;
+    line-height: 50px;
+    text-align: center;
+}
+
+.img.contact-section {
+    margin-top: 200px;
+}

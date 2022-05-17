@@ -15,9 +15,9 @@ use App\Http\Controllers\UserController;
 */
 
 // home page
-Route::get('/', [UserController::class, 'Home'])->name('home');
-Route::get('/home', [UserController::class, 'Home'])->name('home');
+Route::get('/', [UserController::class, 'Home'])->name('main');
+Route::get('/main', [UserController::class, 'Home'])->name('main');
 // about page
-Route::get('/about', [UserController::class, 'About'])->name('about');
+Route::get('/main#about', [UserController::class, 'About'])->name('main');
 // contact page
-Route::get('/contact', [UserController::class, 'Contact'])->name('contact');
+Route::get('/main#contact', [UserController::class, 'Contact'])->name('main');

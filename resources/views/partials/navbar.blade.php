@@ -11,16 +11,16 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav ms-auto">
                     <li class="nav-item ">
-                        <a class="nav-link active"  href="home"> <span
-                                class="{{ $title == 'Home' ? 'white' : '' }}"> Home </span> </a>
+                        <a class="nav-link active"  href="#home"> <span
+                                class="{{ $title == 'Home' ? 'brown' : '' }}"> Home </span> </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link active" href="about"> <span
-                                class="{{ $title == 'About' ? 'white' : '' }}"> About </span> </a>
+                        <a class="nav-link active" href="#about"> <span
+                                class="{{ $title == 'About' ? 'brown' : '' }}"> About </span> </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link active" href="contact"> <span
-                                class="{{ $title == 'Contact' ? 'white' : '' }}"> Contact</span> </a>
+                        <a class="nav-link active" href="#contact"> <span
+                                class="{{ $title == 'Contact' ? 'brown' : '' }}"> Contact</span> </a>
                     </li>
                 </ul>
             </div>
