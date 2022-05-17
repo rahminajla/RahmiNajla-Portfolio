@@ -12,7 +12,7 @@
                 <ul class="navbar-nav ms-auto">
                     <li class="nav-item ">
                         <a class="nav-link active"  href="#home"> <span
-                                class="{{ $title == 'Home' ? 'brown' : '' }}"> Home </span> </a>
+                                class="{{ $title == 'Main' ? 'brown' : '' }}"> Home </span> </a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link active" href="#about"> <span
