@@ -22,11 +22,9 @@
             </p>
 
             <p class="col-desc">
-                <h3> I'm one of Informatics Student at Syiah Kuala University. I'm currently studying in semester 4.</h3>
+                <h3> I'm one of Informatics Student at Syiah Kuala University. I'm currently studying in semester 4. I'm graduated from MAS Insan Qurani. I'm interested in Data Mining and Web-Based Programming</h3>
             </p>      
         </div>
-     
-
 @endsection
 
 

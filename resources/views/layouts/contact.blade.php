@@ -11,19 +11,13 @@
 
 
     <!-- Custom CSS -->
-
-    <link rel="stylesheet" href="/assets/custom/style.css">
     <link rel="stylesheet" href="/assets/custom/contact.css">
-    <link rel="stylesheet" href="/assets/custom/navbar.css">
-
   
     <title>{{ $title }} | Portfolio</title>
 </head>
 <body>
-  
-      <div class="hero-image">
         @yield('content')
-      </div>
+
     <!-- Optional JavaScript -->
     <script src="/assets/bootstrap/js/bootstrap.js"></script>
     <script src="/assets//bootstrap/js/popper.min.js"></script>

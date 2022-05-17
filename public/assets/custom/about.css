@@ -18,7 +18,7 @@ h2 {
     font-family: Verdana !important;
     font-weight: 600;
     color: #FFFFFF;
-    margin-top: 40px;
+    margin-top: 60px;
 }
 
 h4 {
@@ -31,17 +31,13 @@ p {
     font-size: 20px;
     color: #FFFFFF;
     width: 100%;
-    line-height: 50px;
+    line-height: 40px;
 }
 
-b {
-    font-weight: 500;
+p.col1 {
+    text-align: left;
 }
 
-.col-1 {
-    clear: left;
-}
-
-.col-2 {
-    clear: right;
+p.col2 {
+    text-align: right;
 }
